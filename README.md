@@ -18,7 +18,7 @@ Follow the steps below to get your Gallery online. You will be using GitHub web 
 
 ![template](https://user-images.githubusercontent.com/8397274/103133407-40d86f00-46d0-11eb-82f2-edb4a0a30333.png)
 
-3. Type a Name for your new repository
+3. Type a name for your new repository
 
 ![name](https://user-images.githubusercontent.com/8397274/103133448-88f79180-46d0-11eb-87ee-8da7a7d63473.png)
 
@@ -74,8 +74,7 @@ You can learn more about the configuration file here: https://thumbsup.github.io
 ![selectmedia](https://media.giphy.com/media/2uIfenjYx5anbQOEAo/giphy.gif)
 
 #### Finding your website URL
-If you had done all the above steps then your website will be live now. Please check Github Actions tab in your repository for the sttaus of the
-deployment.  Once it is done, Go to settings tab again and scroll down to the Github Pages section to find your public gallery URL.
+If you had done all the above steps then your website will be live now. Please check Github Actions tab in your repository for the status of the deployment.  Once it is done, Go to settings tab again and scroll down to the Github Pages section to find your public gallery URL.
 
 ![url](https://user-images.githubusercontent.com/8397274/48008065-f639b880-e13e-11e8-9f8e-72d27ad7cc30.png)
 
@@ -85,11 +84,13 @@ deployment.  Once it is done, Go to settings tab again and scroll down to the Gi
 
 * File size limit (100 MB) & Repo size limit (75 GB) & Upload limit(25MB): Github limits the maximum usable filesize as 100MB for all files. This is enough for most users. It also imposes a repo size limit of 75GB. If you add a file to a repository via a browser, the file can be no larger than 25 MB. Visit https://help.github.com/articles/what-is-my-disk-quota/ for more info.
 
+* GitHub Actions cache limit: GitHub Actions has a 10 GB total cache size limit per repository. The workflow caches the build output to avoid regenerating unchanged photos. For large galleries, if the cache size exceeds limits, older caches will be automatically evicted. Each cache entry is retained for 7 days if not accessed.
+
 
 ## Tools Used
 * [Github Actions](https://github.com/features/actions) For continuous deployment.
 * [Thumbsup](https://thumbsup.github.io/) for gallery static page generation.
-* [GithHub Pages](https://pages.github.com/) for hosting.
+* [GitHub Pages](https://pages.github.com/) for hosting.
 
 ### History
 * This project was using Travis CI Initially, Migrated to Github Actions for better speed and reliabilty. Travis stopped providing free unlimited builds for open source projects.
