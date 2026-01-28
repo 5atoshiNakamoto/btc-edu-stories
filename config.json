@@ -8,7 +8,7 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Photos may be shared with credit to 5atoshiNakamoto and any other relevant creators. | https://5atoshiNakamoto.github.io",
+  "footer": "Photos may be shared with credit to 5atoshiNakamoto and any other relevant creators. https://5atoshiNakamoto.github.io",
   "usage-stats": false,
 
   "album-previews": "spread",
