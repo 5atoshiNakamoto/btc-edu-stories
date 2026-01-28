@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "BTC edu IG stories",
+  "title": "Instagram Stories of Bitcoin Education",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright 5atoshiNakamoto",
+  "footer": "Photos may be shared with credit to 5atoshiNakamoto and any other relevant creators. | https://5atoshiNakamoto.github.io",
   "usage-stats": false
 }
