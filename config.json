@@ -13,6 +13,5 @@
 
   "album-previews": "spread",
   "sort-albums-direction": "desc",
-  "watermark": "./watermark.png",
-  "watermark-position": "SouthEast"
+ 
 }
