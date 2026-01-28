@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "₿itcoin Education for Instagram Stories",
+  "title": "Instagram Stories of ₿itcoin Education",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
