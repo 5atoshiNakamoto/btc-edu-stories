@@ -8,7 +8,7 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "NOTE: I just started working on these albums and site; planning to have all uploaded by 14, Feb. 2026. There will be many more than currently. Check back soon? Thanks. Photos may be shared with credit to 5atoshiNakamoto and any other relevant creators. <a href="https://5atoshiNakamoto.github.io" target="_blank">https://5atoshiNakamoto.github.io</a>",
+  "footer": "NOTE: I just started working on these albums and site; planning to have all uploaded by 14, Feb. 2026. There will be many more than currently. Check back soon? Thanks. Photos may be shared with credit to 5atoshiNakamoto and any other relevant creators. https://5atoshiNakamoto.github.io",
   "usage-stats": false,
 
   "album-previews": "spread",
