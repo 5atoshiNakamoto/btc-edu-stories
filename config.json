@@ -1,13 +1,17 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Instagram Stories of Bitcoin Education",
+  "title": "₿itcoin Education for Instagram Stories",
   "sort-albums-by": "title",
+  "album-previews": "spread",       //I added
+  "sort-albums-direction": "desc",  //I added
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
   "footer": "Photos may be shared with credit to 5atoshiNakamoto and any other relevant creators. | https://5atoshiNakamoto.github.io",
-  "usage-stats": false
+  "usage-stats": false,
+  "watermark": "./watermark.png",   //I added, but needs creation at path
+  "watermark-position": "SouthEast"  //I added
 }
