@@ -1,6 +1,6 @@
 # Bitcoin Education for Instagram Stories
 
-![BTC Podcast Recs](gallery/BTC%20Podcast%20Recs/BTC%20Pod%20Recs.png) ![5. BTC only](gallery/5.%20BTC%20only/5.%20BTC%20only.png) ![4. Grok BTC](gallery/4.%20Grok%20BTC/4.%20Grok%20BTC.png) ![3. BTC edu](gallery/3.%20BTC%20edu/3.%20BTC%20edu.png) ![2. Learn BTC](gallery/2.%20Learn%20BTC/2.%20Learn%20BTC.png) ![1. Study BTC](gallery/1.%20Study%20BTC/1.%20Study%20BTC.png)
+[![BTC Podcast Recs](gallery/BTC%20Podcast%20Recs/BTC%20Pod%20Recs.png)](https://5atoshinakamoto.github.io/btc-edu-stories/BTC-Podcast-Recs.html) ![5. BTC only](gallery/5.%20BTC%20only/5.%20BTC%20only.png) ![4. Grok BTC](gallery/4.%20Grok%20BTC/4.%20Grok%20BTC.png) ![3. BTC edu](gallery/3.%20BTC%20edu/3.%20BTC%20edu.png) ![2. Learn BTC](gallery/2.%20Learn%20BTC/2.%20Learn%20BTC.png) ![1. Study BTC](gallery/1.%20Study%20BTC/1.%20Study%20BTC.png)
 
 # Github Pages Gallery
 Host your photo/video gallery in Github pages easily using Thumbsup & Github Actions for free.
