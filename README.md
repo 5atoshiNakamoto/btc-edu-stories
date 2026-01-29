@@ -1,6 +1,6 @@
 # Bitcoin Education for Instagram Stories
 
-![3. BTC edu](gallery/3. BTC edu/3. BTC edu.png)
+![3. BTC edu](gallery/3.%20BTC%20edu/3.%20BTC%20edu.png)
 
 # Github Pages Gallery
 Host your photo/video gallery in Github pages easily using Thumbsup & Github Actions for free.
